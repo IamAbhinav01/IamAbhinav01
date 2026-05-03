@@ -5,7 +5,8 @@
 <!-- ░░░░░░░░░░░░░░░░  HERO BANNER  ░░░░░░░░░░░░░░░░ -->
 
 <div align="center">
-<! --<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fdfaf4,25:b8ff35,55:ff4d3d,80:ffe135,100:00f5c4&height=300&section=header&text=ABHINAV%20SUNIL&fontSize=76&fontColor=111111&fontAlignY=42&animation=fadeIn&desc=Full%20Stack%20Engineer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Systems%20Architect&descSize=19&descAlignY=66&descColor=111111&stroke=111111&strokeWidth=1" width="100%"/> -->
+
+```
  █████╗ ██████╗ ██╗  ██╗██╗███╗   ██╗ █████╗ ██╗   ██╗
 ██╔══██╗██╔══██╗██║  ██║██║████╗  ██║██╔══██╗██║   ██║
 ███████║██████╔╝███████║██║██╔██╗ ██║███████║██║   ██║
@@ -19,6 +20,8 @@
 ╚════██║██║   ██║██║╚██╗██║██║██║     
 ███████║╚██████╔╝██║ ╚████║██║███████╗
 ╚══════╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝╚══════╝
+```
+
 </div>
 
 <!-- TYPEWRITER -->
@@ -374,7 +377,7 @@ class AbhinavSunil:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhinav_Sunil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111111)](https://www.linkedin.com/in/abhinavsunil/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhinav_Sunil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111111)](https://www.linkedin.com/in/abhinav-sunil-870184279/)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-IamAbhinav01-b8ff35?style=for-the-badge&logo=github&logoColor=111111&labelColor=111111)](https://github.com/IamAbhinav01)
 &nbsp;
