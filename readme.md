@@ -361,7 +361,7 @@ class AbhinavSunil:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhinav_Sunil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111111)](https://linkedin.com/in/abhinavsunil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhinav_Sunil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111111)](https://www.linkedin.com/in/abhinavsunil/)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-IamAbhinav01-b8ff35?style=for-the-badge&logo=github&logoColor=111111&labelColor=111111)](https://github.com/IamAbhinav01)
 &nbsp;
