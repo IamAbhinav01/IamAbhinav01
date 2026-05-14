@@ -84,7 +84,7 @@ class AbhinavSunil:
     }
 
     stack = {
-        "languages"  : ["Java", "Python", "C++", "JavaScript", "TypeScript", "C", "SQL"],
+        "languages"  : ["C++"],
         "backend"    : ["Node.js", "Express.js", "FastAPI", "Fastify", "WebSockets", "Socket.IO"],
         "ai_ml"      : ["TensorFlow", "PyTorch", "LangChain", "LLMs", "Scikit-learn", "NLP"],
         "frontend"   : ["React.js", "TypeScript", "Tailwind CSS", "Vite"],
