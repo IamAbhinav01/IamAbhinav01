@@ -72,6 +72,7 @@ class AbhinavSunil:
         "experience" : "Vodafone-Idea VOIS · AICTE — Data Analysis Intern",
         "certified"  : [
             "Oracle Cloud Infrastructure 2025 — Gen AI Professional ✅",
+            "Introduction to Machine Learning — NPTEL ✅",
             "Introduction to Generative AI — Google ✅",
             "Introduction to C Programming — NPTEL ✅",
         ],
