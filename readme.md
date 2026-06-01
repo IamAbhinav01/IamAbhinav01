@@ -38,7 +38,7 @@
 ![](https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B3%20INDIA-fdfaf4?style=for-the-badge&labelColor=111111)
 ![](https://img.shields.io/badge/LPU%20%E2%80%A2%20B.Tech%20CSE-ffe135?style=for-the-badge&labelColor=111111)
 ![](https://img.shields.io/badge/ORACLE%20GEN%20AI%20%E2%9C%85-00f5c4?style=for-the-badge&labelColor=111111)
-![](https://img.shields.io/badge/200%2B%20LEETCODE-ff4d3d?style=for-the-badge&labelColor=111111)
+![](https://img.shields.io/badge/300%2B%20LEETCODE-ff4d3d?style=for-the-badge&labelColor=111111)
 ![](https://komarev.com/ghpvc/?username=IamAbhinav01&style=for-the-badge&color=d4a5ff&labelColor=111111&label=PROFILE+VIEWS)
 
 </div>
